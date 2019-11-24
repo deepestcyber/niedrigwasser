@@ -1,0 +1,3 @@
+#!/bin/sh
+cd pixelflut
+python pixelflut.py -s16x24 -z16 canvas_brain.py

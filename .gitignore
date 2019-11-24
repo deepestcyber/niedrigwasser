@@ -1,0 +1,5 @@
+# our virtual environment
+venv
+
+.idea
+**/__pycache__
